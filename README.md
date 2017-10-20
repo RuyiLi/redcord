@@ -1,0 +1,2 @@
+# redcord
+a reddit discordbot
